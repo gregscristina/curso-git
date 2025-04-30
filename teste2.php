@@ -1,2 +1,1 @@
-<?php
-//comecou
+<?php echo 'teste2'; ?>
